@@ -18,11 +18,21 @@ KerberosOrLocalPasswd [yes|no]
 3-Restart the SSH server:
 in kdc : **myserver# /etc/init.d/sshd restart**
 
-I use two hosts one for kdc and other for client and you will see in more details in this files bellow 
+I use two hosts one for kdc and other for client and you will see theses  in more details in theses files bellow
+
 1-kdc
-https://mega.nz/fm/vqoV2Bpa
+Kerberos runs as a third-party trusted server known as the Key Distribution Center (KDC). Each user and service on the network is a principal. The KDC has three main components: An authentication server that performs the initial authentication and issues ticket-granting tickets for users.
+
+  this link contain kdc deployment step by step in several pictures :  https://mega.nz/fm/vqoV2Bpa
+  
 2-client
-https://mega.nz/fm/zy4X3LhS
+Kerberos is a computer network security protocol that authenticates service requests between two or more trusted hosts across an untrusted network, like the internet. It uses secret-key cryptography and a trusted third party for authenticating client-server applications and verifying users' identities.
+
+
+ this link contain client kerberos configuration step by step in several pictures :  https://mega.nz/fm/zy4X3LhS
+ 
+ 
+ This small demonstration make it by Mohamed lemine Ikhalih❤️
 
 
 
