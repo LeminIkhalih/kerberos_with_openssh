@@ -32,7 +32,7 @@ Kerberos is a computer network security protocol that authenticates service requ
  this link contain client kerberos configuration step by step in several pictures :  https://mega.nz/fm/zy4X3LhS
  
  
- This small demonstration make it by Mohamed lemine Ikhalih❤️
+
 
 
 
